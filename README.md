@@ -6,16 +6,16 @@ Anomaly Detection - Identifies unusual projects that require attention
 
 # System Architecture
 WTL_Predictive/
-├── ml_config.py           # Configuration and parameters
-├── feature_engineering.py # Feature creation and selection
-├── success_predictor.py   # Success prediction models
-├── anomaly_detector.py    # Anomaly detection algorithms
-├── ml_pipeline.py        # Pipeline orchestrator
-├── ml_main.py           # Main execution script
-├── config.py            # Configuration and constants
-├── data_processor.py    # Data processing and calculations 
-├── data_loader.py       # Excel data loading 
-└── ml_requirements.txt  # Python dependencies
+├── ml_config.py           # Configuration and parameters       
+├── feature_engineering.py # Feature creation and selection       
+├── success_predictor.py   # Success prediction models      
+├── anomaly_detector.py    # Anomaly detection algorithms  
+├── ml_pipeline.py        # Pipeline orchestrator      
+├── ml_main.py           # Main execution script     
+├── config.py            # Configuration and constants    
+├── data_processor.py    # Data processing and calculations  
+├── data_loader.py       # Excel data loading   
+└── ml_requirements.txt  # Python dependencies    
 
 
 # Usage
