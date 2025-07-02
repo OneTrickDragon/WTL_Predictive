@@ -5,7 +5,7 @@ Project Success Prediction - Predicts whether GS projects will succeed or fail
 Anomaly Detection - Identifies unusual projects that require attention
 
 # System Architecture
-WTL_Predictive/
+WTL_Predictive/  
 ├── ml_config.py           # Configuration and parameters       
 ├── feature_engineering.py # Feature creation and selection       
 ├── success_predictor.py   # Success prediction models      
